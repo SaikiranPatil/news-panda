@@ -1,0 +1,14 @@
+.card{
+    width:18rem;
+    height:max-content
+}
+.card-title{
+    overflow: hidden;
+    height:3rem
+}
+.card-text{
+    overflow: hidden;
+}
+.card-main{
+    height:95px;
+}
